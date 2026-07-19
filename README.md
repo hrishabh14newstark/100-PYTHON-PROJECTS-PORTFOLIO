@@ -94,3 +94,32 @@ Python is a powerhouse for embedded systems, serial communication, and data logg
 75. **Hardware Watchdog Daemon:** Ping network devices and trigger relays to power-cycle them if they hang.
 
 ---
+
+## 🔴 Advanced: AI, Systems & Architecture (76–100)
+These projects require integrating multiple technologies, optimizing performance, and handling complex architectures.
+
+76. **Real-Time Chat Server:** Handle concurrent users with WebSockets and `asyncio`.
+77. **E-Commerce API:** Full backend with Stripe payment integration, auth, and cart logic.
+78. **Microservices Network:** Dockerized Flask applications communicating via gRPC.
+79. **Object Tracking Camera:** An OpenCV script that identifies and follows moving targets.
+80. **Sentiment Classifier:** An NLP model analyzing product reviews using `scikit-learn`.
+81. **Credit Card Fraud Detection:** Anomaly detection using Pandas and machine learning models.
+82. **Distributed Task Queue:** Build a miniature version of Celery using Redis.
+83. **Packet Sniffer:** Analyze raw network traffic headers and payloads with `Scapy`.
+84. **Automated Trading Bot:** Execute paper trades based on moving averages and technical indicators.
+85. **Blockchain Prototype:** Implement proof-of-work mechanics and chained cryptographic hashing.
+86. **CI/CD Pipeline Script:** Automate linting, testing, and deployment workflows.
+87. **Face Recognition System:** Dlib and OpenCV integration for identifying individuals.
+88. **Spam Email Filter:** Train a Naive Bayes classifier on text datasets.
+89. **Recommendation Engine:** Collaborative filtering to suggest movies or products.
+90. **Data Pipeline (ETL):** Scrape, clean, and warehouse data using Apache Airflow.
+91. **Steganography Tool:** Hide encrypted text securely within image pixels.
+92. **Web Application Firewall (WAF):** Intercept and analyze HTTP requests for SQL injection attempts.
+93. **Genetic Algorithm:** Solve optimization and pathfinding problems by simulating natural selection.
+94. **Chess Engine:** Implement the Minimax algorithm with Alpha-Beta pruning.
+95. **Audio Frequency Visualizer:** Process and map WAV files into spectrograms using `librosa`.
+96. **Cryptocurrency Price Predictor:** Build an LSTM neural network with TensorFlow/Keras.
+97. **Custom Language Compiler:** Build a tokenizer, parser, and interpreter from scratch.
+98. **GraphQL API:** Use Graphene to handle complex, nested relational database queries.
+99. **Peer-to-Peer File Sharing:** Socket programming for chunked, direct data transfers.
+100. **AI-Powered Code Reviewer:** Integrate an LLM API to automatically analyze and critique pull requests.
