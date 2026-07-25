@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "21  Blackjack (simplified)",
+    "dir_name": "21  Blackjack (simplified)",
+    "status": "In Progress",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Play a text-based Blackjack card game against a computer dealer.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 2,
+    "name": "Age Calculator",
+    "dir_name": "Age Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Calculate your exact age in years, months, and days based on your birthdate.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 3,
+    "name": "Alarm Clock",
+    "dir_name": "Alarm Clock",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "A CLI/GUI alarm clock that plays a beep sound when the time is reached.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 4,
+    "name": "Automated Birthday Wisher",
+    "dir_name": "Automated Birthday Wisher",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Sends automated birthday wishes via email using SMTP.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 5,
+    "name": "Automated Report Generator (text)",
+    "dir_name": "Automated Report Generator (text)",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Generates structured text summaries from raw text or log files.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 6,
+    "name": "Automatic Folder Cleaner",
+    "dir_name": "Automatic Folder Cleaner",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Cleans a directory by sorting files into relevant subfolders.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 7,
+    "name": "BMI Calculator",
+    "dir_name": "BMI Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Calculates Body Mass Index and displays weight category.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 8,
+    "name": "Barcode GeneratorReader",
+    "dir_name": "Barcode GeneratorReader",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Generates barcodes as images and reads them back using camera/image.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 9,
+    "name": "Basic Data Visualizer (text charts)",
+    "dir_name": "Basic Data Visualizer (text charts)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Visualizes simple datasets using text-based charts (like bar charts).",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 10,
+    "name": "Battleship (simple grid)",
+    "dir_name": "Battleship (simple grid)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "A console grid-based Battleship game against a computer opponent.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 11,
+    "name": "Budget Planner",
+    "dir_name": "Budget Planner",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Plan monthly income and expenses with simple category breakdowns.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 12,
+    "name": "Bulk Email Validator",
+    "dir_name": "Bulk Email Validator",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Validates a list of email addresses for correct format and domain existence.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 13,
+    "name": "Bulk File Renamer",
+    "dir_name": "Bulk File Renamer",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Rename multiple files in a directory matching a specific pattern.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 14,
+    "name": "COVIDData Dashboard (text)",
+    "dir_name": "COVIDData Dashboard (text)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Displays COVID-19 statistics for selected countries in terminal.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 15,
+    "name": "CSV Data Explorer",
+    "dir_name": "CSV Data Explorer",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Load and view statistics, columns, and rows from a CSV file.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 16,
+    "name": "Coin Flip Simulator",
+    "dir_name": "Coin Flip Simulator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Simulates coin flips and displays statistics of heads vs tails.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 17,
+    "name": "Color Picker Tool",
+    "dir_name": "Color Picker Tool",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Intermediate",
+    "description": "A utility to select colors and copy hex/RGB codes.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 18,
+    "name": "Contact Book",
+    "dir_name": "Contact Book",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Save, search, update, and delete contact details in a local file.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 19,
+    "name": "Countdown Timer",
+    "dir_name": "Countdown Timer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Count down from a specified time with audio/text notifications.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 20,
+    "name": "Currency Converter (using fixed rates or API)",
+    "dir_name": "Currency Converter (using fixed rates or API)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Converts currency amounts using real-time API or offline rates.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 21,
+    "name": "Dice Rolling Simulator",
+    "dir_name": "Dice Rolling Simulator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Simulate rolling one or more dice with frequency charts.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 22,
+    "name": "Digital Clock",
+    "dir_name": "Digital Clock",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Intermediate",
+    "description": "Displays current local time updated in real-time.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 23,
+    "name": "Directory Tree Printer",
+    "dir_name": "Directory Tree Printer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Prints a beautiful tree diagram of a directory structure.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 24,
+    "name": "Drawing App (simple)",
+    "dir_name": "Drawing App (simple)",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Intermediate",
+    "description": "Draw on a canvas using a GUI window.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 25,
+    "name": "Email Sender (SMTP)",
+    "dir_name": "Email Sender (SMTP)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Send customized emails with subject and body using SMTP server.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 26,
+    "name": "Employee Payroll System",
+    "dir_name": "Employee Payroll System",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Advanced",
+    "description": "Manage employee salaries, taxes, and net pay.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 27,
+    "name": "Excel-like Calculator",
+    "dir_name": "Excel-like Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Advanced",
+    "description": "Compute cell formulas (like A1 + B2) in a grid-like structure.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 28,
+    "name": "Expense Tracker (CLI)",
+    "dir_name": "Expense Tracker (CLI)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Log daily expenses and view monthly spending reports.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 29,
+    "name": "File Backup Script",
+    "dir_name": "File Backup Script",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Copies important files or folders to a backup location regularly.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 30,
+    "name": "File Organizer (by typeextension)",
+    "dir_name": "File Organizer (by typeextension)",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Sort files in a directory into folders based on their extensions.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 31,
+    "name": "Flappy Bird Clone (simple)",
+    "dir_name": "Flappy Bird Clone (simple)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Play a simple version of Flappy Bird game.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 32,
+    "name": "Flashcard App",
+    "dir_name": "Flashcard App",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Study cards with questions on one side and answers on the other.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 33,
+    "name": "GUI Calculator",
+    "dir_name": "GUI Calculator",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "Perform calculations with a graphical desktop interface.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 34,
+    "name": "GUI Password Generator",
+    "dir_name": "GUI Password Generator",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "Generate secure passwords in a GUI and copy them to clipboard.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 35,
+    "name": "GUI Tic-Tac-Toe",
+    "dir_name": "GUI Tic-Tac-Toe",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Advanced",
+    "description": "Play Tic-Tac-Toe with a GUI against another player or AI.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 36,
+    "name": "GUI To-Do List",
+    "dir_name": "GUI To-Do List",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "Add, remove, and check off tasks using a clean GUI dashboard.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 37,
+    "name": "GUI Weather App",
+    "dir_name": "GUI Weather App",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "Search and display weather forecasts in a clean GUI window.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 38,
+    "name": "Guess the Word (with hints)",
+    "dir_name": "Guess the Word (with hints)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "A word puzzle game where you guess words based on given hints.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 39,
+    "name": "Habit Tracker",
+    "dir_name": "Habit Tracker",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Log daily habits and view your completion streaks.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 40,
+    "name": "Hangman Game",
+    "dir_name": "Hangman Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Classic word guessing game with visual hangman states.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 41,
+    "name": "Higher-Lower Number Game",
+    "dir_name": "Higher-Lower Number Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Guess if the next number will be higher or lower than the current one.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 42,
+    "name": "Image Batch Resizer",
+    "dir_name": "Image Batch Resizer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Resize all images in a folder to a target resolution.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 43,
+    "name": "Image Viewer",
+    "dir_name": "Image Viewer",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Intermediate",
+    "description": "Browse and view image files in a directory using a GUI.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 44,
+    "name": "Instagram Story Downloader (if allowed)",
+    "dir_name": "Instagram Story Downloader (if allowed)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Advanced",
+    "description": "Downloads Instagram stories using open APIs or scraping.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 45,
+    "name": "Inventory Management System",
+    "dir_name": "Inventory Management System",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Track stock levels, sales, and products in a store.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 46,
+    "name": "JSON to CSV Converter",
+    "dir_name": "JSON to CSV Converter",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Convert structured JSON datasets into a tabular CSV format.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 47,
+    "name": "Library Management System",
+    "dir_name": "Library Management System",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Manage books, members, and borrowing status.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 48,
+    "name": "Loan EMI Calculator",
+    "dir_name": "Loan EMI Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Calculate Equated Monthly Installments (EMI) for bank loans.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 49,
+    "name": "Login System GUI",
+    "dir_name": "Login System GUI",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "A user registration and login panel with password hashing.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 50,
+    "name": "Lottery Number Generator",
+    "dir_name": "Lottery Number Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Generate random lottery numbers matching official formats.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 51,
+    "name": "Mad Libs Story Generator",
+    "dir_name": "Mad Libs Story Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Fill in blanks with nouns/verbs/adjectives to make funny stories.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 52,
+    "name": "Meme Generator (text overlay)",
+    "dir_name": "Meme Generator (text overlay)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Overlay funny text onto base images to create memes.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 53,
+    "name": "Memory Card Game GUI",
+    "dir_name": "Memory Card Game GUI",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Advanced",
+    "description": "Flip cards to find pairs within a grid in a GUI window.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 54,
+    "name": "Memory Match Game",
+    "dir_name": "Memory Match Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Find matching pairs of numbers or words in a console grid.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 55,
+    "name": "Movie Recommendation (simple)",
+    "dir_name": "Movie Recommendation (simple)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Suggest movies based on preferred genres and ratings.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 56,
+    "name": "Music Player (basic)",
+    "dir_name": "Music Player (basic)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Play audio files (MP3/WAV) with play, pause, and stop controls.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 57,
+    "name": "Notepad Clone",
+    "dir_name": "Notepad Clone",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Intermediate",
+    "description": "A text editor to create, open, edit, and save text files.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 58,
+    "name": "Number Guessing Game",
+    "dir_name": "Number Guessing Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Guess a randomly selected number with hints (too high/too low).",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 59,
+    "name": "PDF MergerSplitter",
+    "dir_name": "PDF MergerSplitter",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Merge multiple PDFs into one or split pages from a PDF.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 60,
+    "name": "Password Generator",
+    "dir_name": "Password Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Generate highly secure passwords with configurable parameters.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 61,
+    "name": "Password Guessing Simulator",
+    "dir_name": "Password Guessing Simulator",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Simulate how long it takes to brute-force guess a password.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 62,
+    "name": "Personal Diary App (with encryption)",
+    "dir_name": "Personal Diary App (with encryption)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Advanced",
+    "description": "Write journal entries saved securely with password encryption.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 63,
+    "name": "Personal Finance Tracker",
+    "dir_name": "Personal Finance Tracker",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Track monthly income, expenses, and savings goals.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 64,
+    "name": "Pomodoro Timer",
+    "dir_name": "Pomodoro Timer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Boost productivity using the 25-minute Pomodoro focus technique.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 65,
+    "name": "Pong (text version)",
+    "dir_name": "Pong (text version)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "A simplified, text-based simulation of the classic Pong game.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 66,
+    "name": "QR Code Generator",
+    "dir_name": "QR Code Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Generate high-quality QR codes for URLs, text, or phone numbers.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 67,
+    "name": "Quiz Game (multiple choice)",
+    "dir_name": "Quiz Game (multiple choice)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Test your knowledge with trivia questions and dynamic scoring.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 68,
+    "name": "RSS Feed Reader",
+    "dir_name": "RSS Feed Reader",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Fetch and display top headlines from your favorite news feeds.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 69,
+    "name": "Random Data Generator",
+    "dir_name": "Random Data Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Generate mock database records (names, emails, phones) for testing.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 70,
+    "name": "Random Quote Generator",
+    "dir_name": "Random Quote Generator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Displays inspirational quotes randomly from a local list or API.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 71,
+    "name": "Recipe Manager",
+    "dir_name": "Recipe Manager",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Add, view, search, and delete cooking recipes.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 72,
+    "name": "Rock-Paper-Scissors",
+    "dir_name": "Rock-Paper-Scissors",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Play Rock-Paper-Scissors against the computer dealer.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 73,
+    "name": "Sentiment Analyzer (basic)",
+    "dir_name": "Sentiment Analyzer (basic)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Analyze whether text has positive, negative, or neutral sentiment.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 74,
+    "name": "Shopping List Organizer",
+    "dir_name": "Shopping List Organizer",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Intermediate",
+    "description": "Create, edit, and categorize items in a shopping list.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 75,
+    "name": "Simple Calculator",
+    "dir_name": "Simple Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "A CLI calculator doing basic arithmetic operations.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 76,
+    "name": "Simple Chatbot (rule-based)",
+    "dir_name": "Simple Chatbot (rule-based)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "A conversational agent responding to keyword patterns.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 77,
+    "name": "Simple RPG Character Creator",
+    "dir_name": "Simple RPG Character Creator",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Roll stats and customize classes/races for an RPG character.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 78,
+    "name": "Simple Web Crawler",
+    "dir_name": "Simple Web Crawler",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Traverse links starting from a seed URL and collect links.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 79,
+    "name": "Snake Game (console version)",
+    "dir_name": "Snake Game (console version)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "A text-based simulation of the classic Snake game.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 80,
+    "name": "Snake Game with PygameTurtle",
+    "dir_name": "Snake Game with PygameTurtle",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Advanced",
+    "description": "Play the interactive classic Snake game with GUI graphics.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 81,
+    "name": "Speech-to-Text (basic)",
+    "dir_name": "Speech-to-Text (basic)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Convert spoken audio into text transcription using speech libraries.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 82,
+    "name": "Stock Price Tracker (API)",
+    "dir_name": "Stock Price Tracker (API)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Fetch and display real-time stock quotes from financial APIs.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 83,
+    "name": "StopwatchTimer GUI",
+    "dir_name": "StopwatchTimer GUI",
+    "status": "Not Started",
+    "category": "GUI Apps",
+    "difficulty": "Advanced",
+    "description": "A clean GUI stopwatch with lap timing capabilities.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 84,
+    "name": "Student Grade Calculator",
+    "dir_name": "Student Grade Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Compute average grades and determine grade letters.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 85,
+    "name": "Survey Analyzer",
+    "dir_name": "Survey Analyzer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Compile and compute average scores from survey questionnaires.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 86,
+    "name": "Text File Analyzer (word count, etc.)",
+    "dir_name": "Text File Analyzer (word count, etc.)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Count lines, words, characters, and sentences in a file.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 87,
+    "name": "Text Sentiment Score",
+    "dir_name": "Text Sentiment Score",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Get a numerical rating of how positive or negative a text is.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 88,
+    "name": "Text-based Adventure Game",
+    "dir_name": "Text-based Adventure Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Embark on an adventure where choices dictate the outcome.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 89,
+    "name": "Text-to-Speech Converter",
+    "dir_name": "Text-to-Speech Converter",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Read text aloud using system text-to-speech synthesis.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 90,
+    "name": "Tic-Tac-Toe (text-based)",
+    "dir_name": "Tic-Tac-Toe (text-based)",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Play two-player Tic-Tac-Toe on a printed console grid.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 91,
+    "name": "Tip Calculator",
+    "dir_name": "Tip Calculator",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Beginner",
+    "description": "Compute tip amounts and split bills among multiple people.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 92,
+    "name": "To-Do List (CLI with saveload)",
+    "dir_name": "To-Do List (CLI with saveload)",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Manage your daily tasks with persistent local storage.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 93,
+    "name": "URL Shortener (using API)",
+    "dir_name": "URL Shortener (using API)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Shorten long URLs using public URL shortening web services.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 94,
+    "name": "Unit Converter (length, weight, temperature)",
+    "dir_name": "Unit Converter (length, weight, temperature)",
+    "status": "Not Started",
+    "category": "Automation",
+    "difficulty": "Beginner",
+    "description": "Convert measurements between metric and imperial units.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 95,
+    "name": "Virtual Pet Simulator",
+    "dir_name": "Virtual Pet Simulator",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Feed, clean, and play with a virtual pet to keep it happy.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 96,
+    "name": "Weather App (using API)",
+    "dir_name": "Weather App (using API)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Lookup current weather conditions for any city worldwide.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 97,
+    "name": "Web Scraper (simple site like quotes)",
+    "dir_name": "Web Scraper (simple site like quotes)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Intermediate",
+    "description": "Extract info from public websites (like quotes to scrape).",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 98,
+    "name": "Word Frequency Analyzer",
+    "dir_name": "Word Frequency Analyzer",
+    "status": "Not Started",
+    "category": "Utilities",
+    "difficulty": "Intermediate",
+    "description": "Analyze which words appear most frequently in a text block.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 99,
+    "name": "Word Guessing Game",
+    "dir_name": "Word Guessing Game",
+    "status": "Not Started",
+    "category": "Games",
+    "difficulty": "Intermediate",
+    "description": "Guess letters to reveal a hidden secret word.",
+    "entry_point": "index.py"
+  },
+  {
+    "id": 100,
+    "name": "YouTube Video Downloader (basic)",
+    "dir_name": "YouTube Video Downloader (basic)",
+    "status": "Not Started",
+    "category": "API / Data",
+    "difficulty": "Advanced",
+    "description": "Download YouTube videos or extract audio using libraries.",
+    "entry_point": "index.py"
+  }
+]
